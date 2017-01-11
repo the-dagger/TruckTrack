@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.dagger.globalinfo.activity.MainActivity">
+        <item
+            android:id="@+id/action_log_out"
+            android:orderInCategory="100"
+            android:title="Track a device"
+            android:icon="@drawable/plus"
+            app:showAsAction="always" />
+
+    </menu>

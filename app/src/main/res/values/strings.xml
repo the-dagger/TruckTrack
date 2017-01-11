@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TruckTrack</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="url">Add the device you want to track</string>
+</resources>
